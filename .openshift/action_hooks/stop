@@ -3,4 +3,4 @@
 
 set -x
 cd $OPENSHIFT_DATA_DIR/tomcat
-bin/shutdown.sh
+bin/shutdown.sh -force

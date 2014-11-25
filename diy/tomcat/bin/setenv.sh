@@ -1,0 +1,1 @@
+CATALINA_PID="$OPENSHIFT_DATA_DIR/.tomcat.pid"
